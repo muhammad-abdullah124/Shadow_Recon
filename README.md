@@ -21,7 +21,7 @@
 ## 🛠️ System Requirements
 
 - Python 3.8+
-- OS: Linux or Windows (tested on Kali & Ubuntu)
+- OS: Linux or Windows (tested on linux)
 - Dependencies: Listed in `requirements.txt`
 
 ---
