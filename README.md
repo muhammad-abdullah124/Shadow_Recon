@@ -22,6 +22,6 @@
 
 ```bash
 
-git clone https://github.com/username/Shadow_Recon.git
+git clone https://github.com/muhammad-abdullah124/Shadow_Recon.git
 cd Shadow_Recon
 pip install -r requirements.txt
