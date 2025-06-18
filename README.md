@@ -53,12 +53,12 @@ python3 main.py --domain example.com --whois --dns --subdomains --ports --banner
 
 ### 🧾 Command-Line Flags
 
-| Flag           | Description                                                                 | Example                                         |
-|----------------|-----------------------------------------------------------------------------|-------------------------------------------------|
-| `--domain`     | **(Required)** Target domain name                                           | `--domain example.com`                          |
-| `--whois`      | Perform WHOIS lookup on the domain                                          | `--domain example.com --whois`                  |
-| `--dns`        | Enumerate DNS records (A, MX, TXT, NS)                                      | `--domain example.com --dns`                    |
-| `--subdomains` | Enumerate subdomains using crt.sh                                           | `--domain example.com --subdomains`             |
-| `--port`       | Scan open TCP ports (1–1024)                                                | `--domain example.com --ports`                  |
-| `--banner`     | Perform banner grabbing on open ports                                       | `--domain example.com --banner`                 |
-| `--ip`         | Resolve and display the IP address of the domain                            | `--domain example.com --ip`                     |
+| Flag                | Description                                                                 | Example                                              |
+|---------------------|-----------------------------------------------------------------------------|------------------------------------------------------|
+| `--domain`          | **(Required)** Target domain name                                           | `--domain example.com`                               |
+| `--whois`           | Perform WHOIS lookup on the domain                                          | `--domain example.com --whois`                       |
+| `--dns`             | Enumerate DNS records (A, MX, TXT, NS)                                      | `--domain example.com --dns`                         |
+| `--subdomains`      | Enumerate subdomains using crt.sh                                           | `--domain example.com --subdomains`                  |
+| `--port`            | Scan open TCP ports (1–1024)                                                | `--domain example.com --ports`                       |
+| `--banner`          | Perform banner grabbing on open ports                                       | `--domain example.com --banner`                      |
+| `--ip`              | Resolve and display the IP address of the domain                            | `--domain example.com --ip`                          | 
