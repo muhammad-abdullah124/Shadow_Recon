@@ -57,11 +57,11 @@ def subdomain_enum(domain):
 
 def port_scan(domain):
     open_ports = []
-    ports = range(1, 100)
+    ports = range(1, 1024)
     logging.info("Running Port Scan")
     for port in ports:
         try:
-            s = socket.create_connection((domain, port), timeout=2)
+            s = socket.create_connection((domain, port), timeout=5)
             open_ports.append(port)
             s.close()
         except:
