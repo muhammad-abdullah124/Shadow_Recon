@@ -36,8 +36,6 @@ git clone https://github.com/muhammad-abdullah124/Shadow_Recon.git
 # Change directory
 cd Shadow_Recon
 
-# Install required Python packages
-pip install -r requirements.txt
 ```
 
 ---
