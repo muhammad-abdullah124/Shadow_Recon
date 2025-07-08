@@ -11,8 +11,7 @@
 - 🔎 Subdomain Enumeration via crt.sh  
 - 🔐 Port Scanning (Full range 1–1024 TCP)  
 - 🛰️ Banner Grabbing  
-- 📍 IP Address Resolution  
-- 🧠 Technology Detection (Offline Wappalyzer)  
+- 📍 IP Address Resolution
 - 📄 Clean `.txt` Report Generation  
 - 🛠️ Modular CLI Options with Logging
 
