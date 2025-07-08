@@ -38,8 +38,6 @@ cd Shadow_Recon
 
 ```
 
----
-
 ## 🧰 Setting Up a Virtual Environment (Recommended)
 
 To avoid dependency conflicts, it is recommended to create and use a Python virtual environment.
